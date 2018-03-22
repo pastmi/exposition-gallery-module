@@ -1,0 +1,1 @@
+# Exposition Gallery module for Joomla 3.x
